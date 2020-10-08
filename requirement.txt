@@ -1,0 +1,8 @@
+tensorflow==1.13.1
+tqdm
+nltk
+gensim
+pandas
+scikit-learn
+xlsxwriter
+matplotlib
